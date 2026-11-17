@@ -1,5 +1,7 @@
 # 💬 Customer Emotion Analyzer
 
+**🚀 [Try the live app here](https://aditi-customer-emotions.streamlit.app)**. No installation needed, it opens in your browser.
+
 Customers don't just "like" or "dislike" a product. They feel **angry, disappointed, delighted,
 worried, surprised**. This app uses a free AI model to read customer reviews, tag each one with
 an emotion, and turn the results into business insight.
